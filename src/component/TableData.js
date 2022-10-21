@@ -51,7 +51,7 @@ export default class App extends Component {
                         <thead >
                             <tr>
                                 <th>Name</th>
-                                <th>Surname</th>
+                                <th>Second name</th>
                                 <th>Email</th>
                                 <th>Phone</th>
                                 <th>City</th>
